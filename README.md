@@ -1,5 +1,4 @@
-# 👋 Hi, 
- I'm **Dev Prakash Varma** from Bihar, India
+# 👋 Hi, I'm **Dev Prakash Varma** from Bihar, India
 
 🎓 PCM CS Student | Aspiring Software Engineer  
 💻 Passionate about Android Development, Web Development & AI  
